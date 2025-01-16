@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Docsage</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Docsage</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 21:02:50 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/post/gitaliases/</link>
+      <pubDate>Thu, 16 Jan 2025 21:02:50 +0530</pubDate>
+      <guid>http://localhost:1313/post/gitaliases/</guid>
+      <description>&lt;p&gt;Do you often type out long Git commands? Git aliases can save you time! In this post, we&amp;rsquo;ll show you what Git aliases are, how to create them, and how to remove them when necessary.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-git-aliases&#34;&gt;What Are Git Aliases?&lt;/h2&gt;
+&lt;p&gt;Git aliases are shortcuts for longer Git commands. They help you work more efficiently by reducing the need to type out common commands in full. For instance, instead of typing &lt;code&gt;git commit -m &amp;quot;message&amp;quot;&lt;/code&gt;, you can create an alias like &lt;code&gt;gc&lt;/code&gt; to make it simpler.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
