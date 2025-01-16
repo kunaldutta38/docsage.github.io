@@ -1,6 +1,5 @@
 +++
 date = '2025-01-16T21:02:50+05:30'
-draft = true
 title = 'Git aliases'
 +++
 Do you often type out long Git commands? Git aliases can save you time! In this post, we'll show you what Git aliases are, how to create them, and how to remove them when necessary.
